@@ -29,6 +29,8 @@ import java.time.Instant;
 @org.springframework.data.elasticsearch.annotations.Document(indexName = "user")
 public class User extends AbstractAuditingEntity implements Serializable {
 
+    private  Usernn usernn;
+
     private static final long serialVersionUID = 1L;
 
     @Id
