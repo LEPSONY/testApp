@@ -78,7 +78,7 @@ spring:
         facebook:
             client-id: xxx
             client-secret: xxx
-
+        # patrz i sie ucz // Sourcetree TEST
         # see https://apps.twitter.com/app/
         twitter:
             client-id: xxx
